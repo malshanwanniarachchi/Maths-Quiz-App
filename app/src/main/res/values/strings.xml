@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MathsApp</string>
+    <string name="start_button">Start Game</string>
+    <string name="viewScoreHistoryButton">View Previous Score</string>
+    <string name="questionNumberTextView">Question - 1/100</string>
+    <string name="title">MATH-QUIZ GAME</string>
+    <string name="level">Level 1</string>
+    <string name="scoreTextView">Score:0</string>
+</resources>
